@@ -85,3 +85,9 @@ func IsSliceContainsInt64(sl []int64, i int64) bool {
 	}
 	return false
 }
+
+// RemoveSliceIndexU removes the item pointed by index without caring about the order
+func RemoveSliceIndexU(s []interface{}, i int) []interface{} {
+	s[i] = s[len(s)-1]
+	return s[:len(s)-1]
+}

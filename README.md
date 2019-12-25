@@ -1,7 +1,7 @@
 Common Functions
 ================
 
-[![Build Status](https://travis-ci.org/vxhong/com.svg)](https://travis-ci.org/vxhong/com) [![Go Walker](http://gowalker.org/api/v1/badge)](http://gowalker.org/github.com/vxhong/com)
+[![Build Status](https://travis-ci.org/vxzhong/com.svg)](https://travis-ci.org/vxzhong/com) [![Go Walker](http://gowalker.org/api/v1/badge)](http://gowalker.org/github.com/vxzhong/com)
 
 This is an open source project for commonly used functions for the Go programming language.
 
